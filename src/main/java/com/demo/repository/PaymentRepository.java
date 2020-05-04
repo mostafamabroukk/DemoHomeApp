@@ -1,7 +1,6 @@
 package com.demo.repository;
 
 import com.demo.model.Payment;
-import com.sun.corba.se.spi.ior.ObjectKey;
 import org.springframework.stereotype.Repository;
 import java.util.List;
 import java.util.Map;
