@@ -17,5 +17,4 @@ Clone the project and run the Main Class, and test the different functions using
 * /payments/delete/{paymentId}: delete  payment with paymentId.
 
 
-* Technical choice: using Sprint Boot and in-memory H2 database is easy for demonstrating the Restful calls, and test the functions.
-* What could be improved: using external database if it is getting larger. Adding GUI for adding and displaying different payments.
+Technical choice: using Sprint Boot and in-memory H2 database is easy for demonstrating the Restful calls, and testing the functions. What could be improved: using external database if it is getting larger. Adding GUI for adding and displaying different payments.
