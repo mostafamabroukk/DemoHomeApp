@@ -1,6 +1,7 @@
 # HomeDemo1
 
-Spring boot application + internal H2 database.
+**Spring boot application + internal H2 database.**
+
 The challenge is found on https://www.notion.so/Backend-Challenge-vo2-2020-806b0b15b2944f0aada8b4a86849f7ee.
 
 To launch the project: 
